@@ -15,12 +15,12 @@ h2, h3, h4 {
     margin-left: 200px;
     font-size: 15px;
     font-family: Arial, Helvetica, sans-serif;
-    color: grey
+   
 }
 
 h3 {
     font-size: 18px;
-    color: black
+   
 }
 
 h3:hover {
@@ -35,7 +35,7 @@ h3:hover {
 .wide {
     letter-spacing: 15px;
     font-weight: bold;
-    color:rgb(157, 203, 203)
+    
 }
 
 a {
@@ -49,16 +49,11 @@ a:hover {
 
 
 
-.green {
-    color: green;
-    font-weight: bold;
-    
-}
+
 
 .rise {
     position: relative;
     margin-left: 400px;
-    color: orange;
     bottom: 450px;
     letter-spacing: 40px;
     direction: rtl;
@@ -70,18 +65,15 @@ a:hover {
 
 #lemon {
     font-size: 16px;
-    color: greenyellow;
 }
 
 #mango {
     font-size: 40px;
-    color: rgb(243, 195, 7);
 }
 
 #peach {
     letter-spacing: 10px;
     font-size: 16px;
-    color: rgb(255, 145, 95)
 }
 
 #book1, #book2 {
@@ -97,10 +89,10 @@ a:hover {
 
 #bright {
     font-size: 20px;
-    color: rgb(230, 230, 171)
+
 }
 
 #watermelon {
-    color: rgb(250, 134, 57);
+
     font-size: 20px;
 }
