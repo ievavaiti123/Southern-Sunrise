@@ -43,7 +43,7 @@ a {
 }
 
 a:hover {
-    color:antiquewhite
+    color:rgb(253, 215, 165)
 }
 
 
@@ -95,4 +95,5 @@ a:hover {
 #watermelon {
 
     font-size: 20px;
+ 
 }
